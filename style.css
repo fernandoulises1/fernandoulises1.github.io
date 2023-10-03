@@ -1,0 +1,97 @@
+ p { 
+    color:   rgba(127, 0, 211, 0.877) ;
+    font-family: "Times New Roman', Times, serif;"
+    font-family: cursive;        
+    font: size 100px;       
+    }
+
+.lista-de-parrafos {
+    color: chocolate;
+}
+
+h1 {
+    font-family: 'Caveat', cursive;
+    font-family: 'Inclusive Sans', sans-serif;   
+    font-size: 70 px;s
+}
+
+h2 {
+    font-size: 40px;
+    font-family "Verdana";
+    color: chocolate;     
+}
+
+img {
+    width: 700px;
+    border-width: 10 px;
+    border-color: blue;
+    border-style: dotted;
+    padding: 5px;
+}
+
+.bordes-redondeados {
+border-radius: 50px;
+}
+
+hr {
+border-style: dotted;
+border-width: 3px;
+}
+
+.contenedor-1 {
+    background-color: rgb(255, 255, 240);
+}
+.contenedor-2 {
+    background-color: rgb(250, 243, 215);
+}
+.parrafo-2 { 
+    font-size: 50px;
+    font-style: italic;
+}
+#titulo-ppal{
+    color: chocolate;
+}
+
+.obras {
+    display: flex;
+    justify-content: center;
+    margin-block-start: 5%;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* esto es un comentario */
