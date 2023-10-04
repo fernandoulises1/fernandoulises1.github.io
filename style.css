@@ -53,8 +53,7 @@ border-width: 3px;
 }
 
 .obras {
-   
-    display: flex;
+    display:flex;
     justify-content: center;
     margin-block-start: 5%;
  }
