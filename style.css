@@ -22,8 +22,8 @@ h2 {
 }
 
 img {
-    width: 30 vw;
-    border-width: 10 px;
+    width: 30vw;
+    border-width: 10px;
     border-color: blue;
     border-style: dotted;
     padding: 5px;
